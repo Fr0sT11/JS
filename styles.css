@@ -1,0 +1,27 @@
+html, body{
+    margin: 0px;
+    height:100%;
+}
+
+#progContainer{
+    padding:15px;
+    height:100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#progressBar{
+    width:100%;
+    background-color: gainsboro;
+}
+
+#progress{
+    width:1%;
+    height:30px;
+    background-color: blue ;
+}
+
+#pageContent{
+    display:none;
+}   
